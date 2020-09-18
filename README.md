@@ -1,6 +1,6 @@
 # Amazon_Clone
 
-This project uses **React**, **Stripe** and **Firebase**.
+This project was developed with **React**, **Stripe** and **Firebase**.
 
 Site link : <https://clone-33ba1.firebaseapp.com/>
 
